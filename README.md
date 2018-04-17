@@ -1,14 +1,21 @@
-# Homebrew
+# Pre-requisites
+
+### Homebrew
 https://brew.sh/index_sv
 
-# React
+### React
 npm install -g create-react-app
 
-# Nodemon
+### Nodemon
 npm i nodemon -g
 
-# Yarn
+### Yarn
 brew install yarn
 
 # Getting started
+
+# Install
 npm install in 'root' and 'client/'
+
+# Run
+yarn dev
