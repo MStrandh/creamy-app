@@ -9,3 +9,6 @@ npm i nodemon -g
 
 # Yarn
 brew install yarn
+
+# Getting started
+npm install in 'root' and 'client/'
